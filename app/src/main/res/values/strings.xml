@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ensaonline6</string>
+    <string name="gi_g_nie_industriel">GI (génie industriel)</string>
+    <string name="_2ite_ing_nerie_informatique_et_technologies_m_rgentes">2ITE (ingénerie informatique et technologies émérgentes)</string>
+    <string name="g2e_g_nie_n_rgitique_et_l_ctrique">G2E (génie énérgitique et éléctrique)</string>
+    <string name="isic_ing_nierie_des_syst_mes_d_information_et_de_communication">ISIC (Ingénierie des Systèmes d\'Information et de Communication )</string>
+    <string name="todo">TODO</string>
+</resources>
